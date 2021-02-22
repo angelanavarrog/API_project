@@ -4,7 +4,7 @@
 
 ## Ojective
 
-This project was defined during the Ironhack Bootcamp.
+This project was defined during the Ironhack Bootcamp. Here you can find the [given instructions](https://github.com/Ironhack-Data-Madrid-Enero-2021/W6-api-sentiment-project).
 
 The goal of this project is to **create an api** to store conversations that take place in different Whataspp groups. In my case, I based the content in the most typical conversation I have with friends and famly in this media.
 
@@ -23,6 +23,15 @@ There have been created other **helpful documents** with functions that support 
 - [MongoConnection.py](https://github.com/angelanavarrog/API_project/blob/master/helpers/mongoConnection.py)
 - [Users.py](https://github.com/angelanavarrog/API_project/blob/master/helpers/users.py)
 
-Finally, an **[api.py](https://github.com/angelanavarrog/API_project/blob/master/api.py)** document has been created. **Flask** has been used to build it.
+Finally, an **[api.py](https://github.com/angelanavarrog/API_project/blob/master/api.py)** document has been created. 
 
 With the objeective of testing it, and [.ipynb document](https://github.com/angelanavarrog/API_project/blob/master/testing%20API.ipynb) was created too.
+
+## Resources
+
+Some of the libraries used are:
+
+- Flask
+- MongoCollection
+- pymongo
+- bson
