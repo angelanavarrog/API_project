@@ -1,0 +1,358 @@
+[{
+  "_id": {
+    "$oid": "6033c3bf48fbab6aef6149cd"
+  },
+  "name": "Celia",
+  "group": "Jerez covid",
+  "message": "I don't drink beer anymore"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f3960fb"
+  },
+  "user": "Maria M",
+  "group": "Jerez Covid",
+  "message": "I have not been drinking alcohol since Sunday"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f3960fc"
+  },
+  "user": "Angela",
+  "group": "Jerez Covid",
+  "message": "haha mery we are on wednesday"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f3960fd"
+  },
+  "user": "Maria M",
+  "group": "Jerez Covid",
+  "message": "well but it's already three days"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f3960fe"
+  },
+  "user": "Tere",
+  "group": "Jerez Covid",
+  "message": "Do you know who's getting married?"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f3960ff"
+  },
+  "user": "Clau",
+  "group": "Jerez Covid",
+  "message": "Pepito and Ana"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396100"
+  },
+  "user": "Tere",
+  "group": "Jerez Covid",
+  "message": "how do you know it?"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396101"
+  },
+  "user": "Maria M",
+  "group": "Jerez Covid",
+  "message": "I can't believe it!"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396102"
+  },
+  "user": "Angela",
+  "group": "Jerez Covid",
+  "message": "But they haven't been together long, have they?"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396103"
+  },
+  "user": "Maria M",
+  "group": "Jerez Covid",
+  "message": "two years I think"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396104"
+  },
+  "user": "Tere",
+  "group": "Jerez Covid",
+  "message": "Everyone is asked unless me"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396105"
+  },
+  "user": "Celia",
+  "group": "Jerez Covid",
+  "message": "hahahahaha"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396106"
+  },
+  "user": "Tere",
+  "group": "Jerez Covid",
+  "message": "If in 2 months I don't ask for it I'll break with him"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396107"
+  },
+  "user": "Tere",
+  "group": "Jerez Covid",
+  "message": "this time for real"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396108"
+  },
+  "user": "Maria M",
+  "group": "Jerez Covid",
+  "message": "Tere you have been saying the same thing for two years now"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396109"
+  },
+  "user": "Celia",
+  "group": "Jerez Covid",
+  "message": "It is that of course as it continues like this Javier marries at 50"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39610a"
+  },
+  "user": "Clau",
+  "group": "Jerez Covid",
+  "message": "I'm sure you'll see that there's not much left to do."
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39610b"
+  },
+  "user": "Tito",
+  "group": "Family",
+  "message": "image1"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39610c"
+  },
+  "user": "Tito",
+  "group": "Family",
+  "message": "image2"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39610d"
+  },
+  "user": "Angela",
+  "group": "Family",
+  "message": "How funny!!!"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39610e"
+  },
+  "user": "Mama",
+  "group": "Family",
+  "message": "How beautiful Tatan"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39610f"
+  },
+  "user": "Mama",
+  "group": "Family",
+  "message": "Ops, it won't hit her in the face, will her?"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396110"
+  },
+  "user": "Tito",
+  "group": "Family",
+  "message": "haha of course not mama, I am keeping an eye on him"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396111"
+  },
+  "user": "Bego",
+  "group": "Family",
+  "message": "thank you father in law"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396112"
+  },
+  "user": "Fati",
+  "group": "Family",
+  "message": "heart icon"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396113"
+  },
+  "user": "Mama",
+  "group": "Family",
+  "message": "Good morning!! God bless you"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396114"
+  },
+  "user": "Papa",
+  "group": "Family",
+  "message": "Good morning"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396115"
+  },
+  "user": "Tito",
+  "group": "Family",
+  "message": "This weekend Bego and I are staying with the kids and resting."
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396116"
+  },
+  "user": "Angela",
+  "group": "Family",
+  "message": "Look how beautiful Madrid is!"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396117"
+  },
+  "user": "Mama",
+  "group": "Family",
+  "message": "I love youuuuu"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396118"
+  },
+  "user": "Bego",
+  "group": "Family",
+  "message": "The home renovation is already finished! :)"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396119"
+  },
+  "user": "Papa",
+  "group": "Family",
+  "message": "I can't wait to go to Madrid"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39611a"
+  },
+  "user": "Fati",
+  "group": "Family",
+  "message": "heart icon"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39611b"
+  },
+  "user": "Miriam",
+  "group": "Turbias",
+  "message": "Some of you know it, others don't...I'm getting married! !!!!"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39611c"
+  },
+  "user": "Maria P",
+  "group": "Turbias",
+  "message": "Wow!!! Congratulations!"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39611d"
+  },
+  "user": "Angela",
+  "group": "Turbias",
+  "message": "What a joy!!!!!Congratssss"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39611e"
+  },
+  "user": "Neva",
+  "group": "Turbias",
+  "message": "Anybody in Jerez take something?"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39611f"
+  },
+  "user": "Nata",
+  "group": "Turbias",
+  "message": "Meee! At 7pm in Valde?"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396120"
+  },
+  "user": "Ale",
+  "group": "Turbias",
+  "message": "I can't, I'm going to the cinema"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396121"
+  },
+  "user": "Ninfa",
+  "group": "Turbias",
+  "message": "summary? Something important"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396122"
+  },
+  "user": "Nata",
+  "group": "Turbias",
+  "message": "Have you seen the new Renfe's feature?"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396123"
+  },
+  "user": "Blanca M",
+  "group": "Turbias",
+  "message": "I go for a ride with the horse and I go"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396124"
+  },
+  "user": "Pilar",
+  "group": "Turbias",
+  "message": "at 7 o'clock in Valde Blanca goes for a ride with the horse and comes later and Miriam is getting married."
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396125"
+  },
+  "user": "Angela",
+  "group": "Turbias",
+  "message": "The tickets for the fair are ready"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396126"
+  },
+  "user": "Nata",
+  "group": "Turbias",
+  "message": "I already have them!  Otherwise, the Madrileños will arrive and we will be left without"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396127"
+  },
+  "user": "Pilar",
+  "group": "Turbias",
+  "message": "girls what a burden 5 months to go"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396128"
+  },
+  "user": "Nata",
+  "group": "Turbias",
+  "message": "Well pillar you do not take them out and you already tell us"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f396129"
+  },
+  "user": "Neva",
+  "group": "Turbias",
+  "message": "Doctor or pharmacists, What do you recommend to me for these spots?"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39612a"
+  },
+  "user": "Neva",
+  "group": "Turbias",
+  "message": "image"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39612b"
+  },
+  "user": "Ninfa",
+  "group": "Turbias",
+  "message": "Neva write to me privately"
+},{
+  "_id": {
+    "$oid": "6033c4770180b0bd7f39612c"
+  },
+  "user": "Moni",
+  "group": "Turbias",
+  "message": "go to the pharmacy and ask for this no prescription is needed"
+}]
